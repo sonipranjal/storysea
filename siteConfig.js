@@ -5,7 +5,7 @@ module.exports = {
   siteDescriptionMeta: "A common man thoughts, stories and ideas!.",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "story that matter!",
+  shortTitle: "storysea!",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
