@@ -1,12 +1,11 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://storysea.in",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
-  siteDescriptionMeta:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+  siteTitleMeta: "WELCOME TO THE SEA OF STORIES!!",
+  siteDescriptionMeta: "A common man thoughts, stories and ideas!.",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "story that matter!",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
@@ -15,51 +14,51 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://storysea.in/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://storysea.in/contact",
       },
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "storysea",
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://storysea.in/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://storysea.in/sitemap.xml",
       },
-      {
-        label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
-      },
-      {
-        label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
-      },
-      {
-        label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
-      },
+      // {
+      //   label: "RSS",
+      //   url: "https://storysea.in/rss.xml",
+      // },
+      // {
+      //   label: "Contact",
+      //   url: "https://storysea.in/contact",
+      // },
+      // {
+      //   label: "External Link",
+      //   url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+      // },
     ],
   },
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Built with Draftbox",
+    title: "Subscribe to storysea",
     helpText: "Get the latest posts delivered right to your inbox.",
-    successMessage: "Thanks for subscribing to Built with Draftbox.",
+    successMessage: "Thanks for subscribing to storysea.",
   },
   socialLinks: {
-    twitter: "https://twitter.com/draftboxhq",
-    facebook: "https://facebook.com/",
-    instagram: "https://www.instagram.com/",
-    linkedin: "https://linkedin.com",
-    github: "https://github.com/draftbox-co",
+    twitter: "https://twitter.com/storysea11",
+    facebook: "https://www.facebook.com/storysea11/",
+    instagram: "https://www.instagram.com/storysea.in/",
+    linkedin: "https://www.linkedin.com/company/storysea",
+    github: "",
     pinterest: "",
     youtube: "",
     dribbble: "",
@@ -68,33 +67,29 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Contact us",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
-    description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+    title: "storysea",
+    description: "A common man thoughts, stories and ideas!.",
   },
   twitterCard: {
-    title: "Built with Draftbox",
-    description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+    title: "storysea",
+    description: "A common man thoughts, stories and ideas!.",
     imageUrl: "twitterImage.png",
-    username: "@DraftboxHQ",
+    username: "@storysea11",
   },
   facebookCard: {
-    title: "Built with Draftbox",
-    description:
-      "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
+    title: "storysea",
+    description: "A common man thoughts, stories and ideas!.",
     imageUrl: "facebookImage.png",
     appId: "",
     width: 1000,
     height: 523,
   },
-  siteTitle: "Built with Draftbox",
-  siteDescription:
-    "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
+  siteTitle: "storysea",
+  siteDescription: "Welcome to the sea of stories!",
   language: "en",
   logoUrl: "logo.svg",
   iconUrl:
